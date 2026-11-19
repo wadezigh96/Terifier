@@ -1,0 +1,40 @@
+derived_address=0x10Ce3Ef4629869697f2C6f408aCA6EE86a5525f7
+expected_address=0x10Ce3Ef4629869697f2C6f408aCA6EE86a5525f7
+MATCH=YES
+Compiling 27 files with Solc 0.8.29
+Solc 0.8.29 finished in 2.76s
+Compiler run successful!
+Script ran successfully.
+
+== Logs ==
+  Wired rescuers on reactive: 0x298902E4ec5C6C1Fc596C73699F70F02Ee96Fe95
+    Base Sepolia rescuer: 0xbe9F377e91e1b7a183AC9c344Eb776c4644F9A9F
+    Unichain Sepolia rescuer: 0xbe9F377e91e1b7a183AC9c344Eb776c4644F9A9F
+    NEXT: fund reactive + rescuers, then call arm() on the reactive contract.
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 5318007
+
+Estimated max fee per gas: 200.000000001 gwei
+Estimated base fee per gas: 100 gwei
+Estimated max priority fee per gas: 0.000000001 gwei
+
+Estimated total gas used for script: 136531
+
+Estimated amount required: 0.027306200000136531 ETH
+
+==========================
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+
+Transactions saved to: /home/hatch/workspace/terifier/broadcast/Deploy.s.sol/5318007/run-latest.json
+
+Sensitive values saved to: /home/hatch/workspace/terifier/cache/Deploy.s.sol/5318007/run-latest.json
+
+DONE mode=wire

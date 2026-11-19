@@ -1,0 +1,10 @@
+token deploy tx: 0xb16e835b8907b21d7c4bc240350d9c22d699764e554627b38def3308ece25df0
+MockToken (Unichain): 0x298902E4ec5C6C1Fc596C73699F70F02Ee96Fe95
+  deploy status: status               1 (success)
+mint tx: 0xc01b98146a99df0787ac495ca1691798b23b7bfe37ce874c67e86b18bfa75eb0
+mint confirmed
+rescuer deploy tx: 0x652d26fc41b358e3c95f50938d583787a059ff9f5d3c9c3089b566603036552d
+TerifierRescuer (Unichain, 1301): 0xbe9F377e91e1b7a183AC9c344Eb776c4644F9A9F
+  callback proxy: 0x775c9B990ADe401060B78D0e98684eEf8d2466C1
+  callback sender (reactive): 0x298902E4ec5C6C1Fc596C73699F70F02Ee96Fe95
+DONE unichain-cast

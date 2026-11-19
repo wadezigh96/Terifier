@@ -1,0 +1,39 @@
+derived_address=0x10Ce3Ef4629869697f2C6f408aCA6EE86a5525f7
+expected_address=0x10Ce3Ef4629869697f2C6f408aCA6EE86a5525f7
+MATCH=YES
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  TerifierReactive (Lasna): 0x298902E4ec5C6C1Fc596C73699F70F02Ee96Fe95
+    watched: 0x10Ce3Ef4629869697f2C6f408aCA6EE86a5525f7
+    safe: 0xB4142430B831e047cCF9729148337ad22DF1A9e1
+    inactivityThreshold (s): 600
+    NEXT: set REACTIVE_ADDRESS in .env, then deploy rescuers.
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 5318007
+
+Estimated max fee per gas: 175.001135751 gwei
+Estimated base fee per gas: 87.500567875 gwei
+Estimated max priority fee per gas: 0.000000001 gwei
+
+Estimated total gas used for script: 2418373
+
+Estimated amount required: 0.423218021669553123 ETH
+
+==========================
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+
+Transactions saved to: /home/hatch/workspace/terifier/broadcast/Deploy.s.sol/5318007/run-latest.json
+
+Sensitive values saved to: /home/hatch/workspace/terifier/cache/Deploy.s.sol/5318007/run-latest.json
+
+DONE mode=lasna

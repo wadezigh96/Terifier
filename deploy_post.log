@@ -1,0 +1,19 @@
+== Lasna: addToken Base 84532 ==
+  tx: 0x132e1262d8914b29dd10e1e96bb9726604ff721a16581922c1e0e665bb4f116b
+  receipt status: status               1 (success)
+== Lasna: addToken Unichain 1301 ==
+  tx: 0x0d18871dc47446580da82b00b7482eff48b31237c28bc3bc8e4de87eed196cd3
+  receipt status: status               1 (success)
+== Lasna: fund reactive with 1 lREACT ==
+  tx: 0x0e4dace6ba40e4705d18a1fbc4eb0a418fc5e058e4ec2c868b274776315012a6
+  receipt status: status               1 (success)
+== Base Sepolia: approve rescuer 1000 tUSD ==
+  tx: 0x4d173f8d181633788e7905dbe2be65027d82f695adffe53b308fe149caa45cd8
+  receipt status: status               1 (success)
+== Unichain Sepolia: approve rescuer 1000 tUSD ==
+  tx: 0xab0126a777cd8af72e24599219cd5e55119937ec63c115ea4e15e680cbefe766
+  receipt status: status               1 (success)
+== Lasna: arm() ==
+  tx: 0x962887aaef2fb38d01f7b80db6b0eaea2b0c4758dd88c06aa906614f6cd6b2e6
+  receipt status: status               1 (success)
+DONE post-deploy
